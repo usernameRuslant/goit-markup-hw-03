@@ -88,14 +88,16 @@ body {
   /* align-items: center; */
 }
 
-.nav__item {
+/* .nav__item {
   padding: 24px 0;
-}
+} */
 
 .nav__link {
   color: #2e2f42;
   font-weight: 500;
   text-decoration: none;
+  padding: 24px 0;
+  display: block;
 }
 .nav__link:hover,
 .contacts__link:hover {
