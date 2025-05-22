@@ -88,10 +88,11 @@ body {
   /* align-items: center; */
 }
 
-.nav__item,
-.contacts__item {
+.nav__item {
   padding-top: 24px;
   padding-bottom: 24px;
+}
+.contacts__item {
 }
 .nav__link {
   color: #2e2f42;
