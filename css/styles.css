@@ -319,6 +319,8 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   color: #4d5ae5;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .footer__logo-highlight {
   color: #f4f4fd;
@@ -329,5 +331,4 @@ body {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   width: 264px;
-  margin-top: 16px;
 }
