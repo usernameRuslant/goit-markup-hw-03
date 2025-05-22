@@ -89,11 +89,9 @@ body {
 }
 
 .nav__item {
-  padding-top: 24px;
-  padding-bottom: 24px;
+  padding: 24px 0;
 }
-.contacts__item {
-}
+
 .nav__link {
   color: #2e2f42;
   font-weight: 500;
