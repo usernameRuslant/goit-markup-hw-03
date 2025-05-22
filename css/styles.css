@@ -197,7 +197,7 @@ body {
   gap: 24px;
 }
 .features__item {
-  width: 264px;
+  width: calc((100% - 72px) / 4);
 }
 .features__subtitle {
   font-size: 20px;
