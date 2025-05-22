@@ -130,10 +130,10 @@ body {
 /* section hero */
 .hero {
   background-color: #2e2f42;
-}
-.hero .container {
   padding-top: 188px;
   padding-bottom: 188px;
+}
+.hero .container {
   display: flex;
   flex-direction: column;
 
@@ -147,6 +147,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   margin-bottom: 48px;
+  max-width: 496px;
 }
 .hero__button {
   letter-spacing: 0.02em;
@@ -158,8 +159,9 @@ body {
   cursor: pointer;
   border-radius: 4px;
   padding: 16px 32px;
-  width: 169px;
+  min-width: 169px;
   height: 56px;
+  border: none;
 }
 .hero__button:hover,
 .hero__button:focus {
