@@ -238,10 +238,10 @@ body {
   background-color: white;
   flex-basis: calc((100%-72px) / 4);
 
-  padding-bottom: 32px;
+  border-radius: 0 0 4px 4px;
 }
-.team__photo {
-  margin-bottom: 32px;
+.team__item-block {
+  padding: 32px 0;
 }
 .team__name {
   font-weight: 500;
